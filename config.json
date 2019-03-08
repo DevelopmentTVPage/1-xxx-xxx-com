@@ -1,0 +1,16 @@
+{
+    "title": "xxx",
+    "baseURL": "https:\/\/xxx.xxx.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759293",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "xxx.com"
+    }
+}
